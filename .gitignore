@@ -1,0 +1,9 @@
+.venv
+
+.env
+
+profiles.yml
+
+profiles-root.yml
+profiles-var.yml
+user.yml
